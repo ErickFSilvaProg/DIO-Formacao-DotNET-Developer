@@ -1,0 +1,11 @@
+- Dentro da pasta do projeto, inicie um novo projeto do tipo 'console':
+
+    dotnet new console
+
+
+- Para executar o código fonte em C# pelo terminal, utilile o comando dentro da pasta do projeto:
+
+    dotnet run
+
+
+- 
