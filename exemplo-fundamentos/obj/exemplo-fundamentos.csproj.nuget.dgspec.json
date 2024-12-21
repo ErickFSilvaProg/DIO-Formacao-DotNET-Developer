@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick.silva\\Arquivos\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj": {}
+    "D:\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick.silva\\Arquivos\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj": {
+    "D:\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick.silva\\Arquivos\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj",
+        "projectUniqueName": "D:\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj",
         "projectName": "exemplo-fundamentos",
-        "projectPath": "C:\\Users\\erick.silva\\Arquivos\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj",
-        "packagesPath": "C:\\Users\\erick.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick.silva\\Arquivos\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\obj\\",
+        "projectPath": "D:\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\exemplo-fundamentos.csproj",
+        "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
+        "outputPath": "D:\\_projetos-dio\\DIO-Formacao-DotNET-Developer\\exemplo-fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\erick.silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
